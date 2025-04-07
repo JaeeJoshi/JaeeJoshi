@@ -1,8 +1,6 @@
-![My Project Screenshot](./images/screenshot.png)
 
 <h1 align="center">Hi 👋, I'm Jaee Joshi</h1>
 <h3 align="center">Bridging Frontend Finesse with Backend Brilliance to Build Seamless Digital Experiences</h3>
-<img align="right" alt="myProfilePicture" width="400" src="https://i.pinimg.com/474x/4e/03/87/4e03872d7166cc5ed92c490708af3261.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaeejoshi&label=Profile%20views&color=0e75b6&style=flat" alt="jaeejoshi" /> </p>
 
