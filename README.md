@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jaee Joshi</h1>
-<h3 align="center">Bridging Frontend Finesse with Backend Brilliance to Build Seamless Digital Experiences</h3>
+<h3 align="center">Turning ideas into interactive websites — front to back</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaeejoshi&label=Profile%20views&color=0e75b6&style=flat" alt="jaeejoshi" /> </p>
 
